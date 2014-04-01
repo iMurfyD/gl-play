@@ -1,0 +1,6 @@
+[submodule "gl"]
+	path = gl
+	url = https://www.github.com/go-gl/gl
+[submodule "glfw3"]
+	path = glfw3
+	url = https://www.github.com/go-gl/glfw3
